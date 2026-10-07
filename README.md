@@ -14,3 +14,44 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+🚀 Overview
+===============
+This project is a fullstack portfolio CMS that allows users to:
+Manage personal portfolio content (blogs, skills, projects).
+Provide an admin dashboard for CRUD operations.
+Expose REST APIs for frontend integration.
+Deliver a responsive UI with React and Tailwind CSS.
+
+📂 Features
+================
+
+🔐 Admin login and authentication
+📝 CRUD operations for blogs, skills, and projects
+📊 Dashboard with count endpoints (projects, blogs, skills)
+🎨 Responsive UI with Tailwind CSS
+⚡ REST API integration with Spring Boot backend
+
+
+🛠️ Tech Stack
+================
+
+Backend: Spring Boot (Java), REST APIs
+Frontend: React.js, CSS
+Database:  PostgreSQL
+Build Tools: Maven, npm
+Other: Axios (API calls), JWT 
+
+
+📸 Screenshots
+=================
+
+![Screenshot (20).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2820%29.png)
+![Screenshot (21).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2821%29.png)
+![Screenshot (22).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2822%29.png)
+![Screenshot (23).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2823%29.png)
+![Screenshot (24).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2824%29.png)
+![Screenshot (25).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2825%29.png)
+![Screenshot (26).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2826%29.png)
+![Screenshot (27).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2827%29.png)
+![Screenshot (28).png](../../../OneDrive/Pictures/Screenshots/Screenshot%20%2828%29.png)
